@@ -1,0 +1,6 @@
+[project]
+name = "smefin"
+version = "0.1.0"
+description = "SME Debt Portfolio System — Layer 1"
+requires-python = ">=3.11"
+dependencies = []
